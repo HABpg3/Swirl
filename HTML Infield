@@ -1,6 +1,11 @@
 <html lang="en">
 <head>
 <h1> Infield Positions</h1>
+<br>
+<ul>
+  <li><a href="HTML Infield">Infield</a></li>
+  <li><a href="html outfield">Outfield</a></li>
+</ul>
 <p> The Infield has six positions. Those positions are, first base, second base, shortstop, third base, pitcher, and catcher. Here will cover the basics of each of those positions.</p>
 <br>
 <h3> First Baseman</h3>
