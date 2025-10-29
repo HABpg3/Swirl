@@ -1,6 +1,11 @@
 <html lang="en">
 <head>
 <h1> Outfield </h1>
+<br>
+<ul>
+  <li><a href="HTML Infield">Infield</a></li>
+  <li><a href="html outfield">Outfield</a></li>
+</ul>
 <p> The outfield has  three positions. Right and left field and center field. These positions cover the whole outfield. So they are responsible for a lot of field.
 <br>
 <h3> Left Field</h3>
